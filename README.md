@@ -1,5 +1,21 @@
-## Hi there 👋
+# Hi, I'm Chandrahas👋
 
+### 📊 Data Analyst | Insight Seeker | Problem Solver
+
+I specialize in transforming raw data into actionable business insights. I love cleaning messy datasets and building dashboards that tell a story.
+
+- 🛠️ **Current Tech Stack:** Python (Pandas/NumPy), SQL, Tableau, Excel
+- 🔭 **I’m currently working on:** A Sales Performance Dashboard
+- 🌱 **I’m currently learning:** Advanced SQL Optimization or Machine Learning with Scikit-Learn
+- 📫 **Connect with me:** www.linkedin.com/in/chandrahasr6235846 | Link to Portfolio/Email
+
+---
+
+### 🧰 Skills & Tools
+- **Languages:** Python, SQL, R
+- **Data Viz:** Tableau, Power BI, Matplotlib, Seaborn
+- **Databases:** PostgreSQL, MySQL, BigQuery, Snowflake
+- **Other:** Git/GitHub, Spreadsheet Modeling, Statistics
 <!--
 **chandrahasramula/chandrahasramula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
