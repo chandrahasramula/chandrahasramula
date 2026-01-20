@@ -16,6 +16,14 @@ I specialize in transforming raw data into actionable business insights. I love 
 - **Data Viz:** Tableau, Power BI, Matplotlib, Seaborn
 - **Databases:** PostgreSQL, MySQL, BigQuery, Snowflake
 - **Other:** Git/GitHub, Spreadsheet Modeling, Statistics
+
+---
+
+### 📈 My GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+
 <!--
 **chandrahasramula/chandrahasramula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
