@@ -7,7 +7,7 @@ I specialize in transforming raw data into actionable business insights. I love 
 - 🛠️ **Current Tech Stack:** Python (Pandas/NumPy), SQL, Tableau, Excel
 - 🔭 **I’m currently working on:** A Sales Performance Dashboard
 - 🌱 **I’m currently learning:** Advanced SQL Optimization or Machine Learning with Scikit-Learn
-- 📫 **Connect with me:**  [Linkedin](https://www.linkedin.com/in/chandrahasr6235846/) | [Email](mailto:rchandrahas19@gmail.com)
+- 📫 **Connect with me:**  [Linkedin](https://www.linkedin.com/in/chandrahasr6235846/)
 
 ---
 
